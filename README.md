@@ -8,3 +8,5 @@ Hundred points are equal to one dollar the money can be used to
 upgrade the three ships. Health of the enemy ships are shown by their changing color. 
 Game will be over when u crash into an enemy.
 Press P to pause the game.
+
+The game has been developed in c++ using all the principles of OOP.
